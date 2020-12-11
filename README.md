@@ -1,2 +1,2 @@
-# Text-classifiction
+# Text-classification
 dataset : https://github.com/duyvuleo/VNTC
